@@ -1,5 +1,5 @@
 <template>
-  <div class="more-content">Yestoday is history, \n tomorrow is a mystery, \n but today is a gift. \n That is why it is called present.</div>
+  <div class="more-content">Yestoday is history\n</div>tomorrow is a mystery\n</div>but today is a gift\n</div>That is why it is called present</div>
 </template>
 
 <style lang="scss" scoped>
